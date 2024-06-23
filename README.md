@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @stentzeg
+- 👀 I’m interested in developing skills.
+- 🌱 I’m currently learning how to use APIs & configuring GPTs.
+- 💞️ I’m looking to collaborate on APIs & GPTs.
+- 📫 How to reach me. Here.
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: ...
